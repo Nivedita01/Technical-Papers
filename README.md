@@ -1,2 +1,2 @@
 # Technical-Papers
-APA styles technical papers in Computer Science
+APA styled technical papers in Computer Science
